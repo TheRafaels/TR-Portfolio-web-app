@@ -1,0 +1,42 @@
+Hosting a static website on GitHub Pages is one of the easiest and most reliable free options. It's perfect for websites built with HTML, CSS, and JavaScript (without server-side code like PHP or MySQL).
+
+Step 1: Create a GitHub account
+
+If you don't already have one, create an account on:
+
+GitHub
+
+Step 2: Create a new repository
+Log in to GitHub.
+Click the + icon (top-right).
+Select New repository.
+Name it something like:
+fashion-store
+clothing-website
+my-shop
+Choose Public.
+Click Create repository.
+
+
+Step 3: Prepare your website
+
+Your project should look something like this:
+
+fashion-store/
+│
+├── index.html
+├── about.html
+├── products.html
+├── contact.html
+│
+├── css/
+│   └── style.css
+│
+├── js/
+│   └── script.js
+│
+└── images/
+
+Important: The homepage must be named index.html.
+
+
