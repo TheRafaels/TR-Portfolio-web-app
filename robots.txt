@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://therafaels.github.io/TR-Portfolio-web-app/sitemap.xml
